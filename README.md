@@ -1,4 +1,4 @@
-# 📝 ScribeSpace - Modern Blogging Platform
+# 📝 NoteSync - Modern Blogging Platform
 
 ## 🚀 Overview
 A full-stack blogging platform showcasing modern web development expertise. Built with industry-standard practices and cutting-edge technologies, this project demonstrates professional-grade software architecture and development skills.
@@ -67,7 +67,7 @@ A full-stack blogging platform showcasing modern web development expertise. Buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/scribespace.git
+   git clone https://github.com/yourusername/NoteSync.git
    ```
 
 2. Install dependencies:
